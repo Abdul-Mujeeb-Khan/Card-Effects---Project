@@ -30,6 +30,7 @@ h3 {
 }
 
 .Card {
+  background: #c7c6c6;
   border: 8px solid #333;
   border-radius: 15px;
   width: 300px;
@@ -58,4 +59,9 @@ h3 {
 .socials img {
   max-width: 2.5rem;
   margin-bottom: 3rem;
+}
+
+.card-body {
+  height: 100%;
+  width: 100%;
 }
